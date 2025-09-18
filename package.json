@@ -1,7 +1,7 @@
 {
   "name": "projetoweb2",
   "version": "1.0.0",
-  "description": "ablubleblu",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "able"
@@ -11,5 +11,8 @@
     "url": "ProgWeb2"
   },
   "author": "ClaraRibeiro",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
