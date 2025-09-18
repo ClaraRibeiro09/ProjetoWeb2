@@ -1,0 +1,15 @@
+{
+  "name": "projetoweb2",
+  "version": "1.0.0",
+  "description": "ablubleblu",
+  "main": "index.js",
+  "scripts": {
+    "test": "able"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ProgWeb2"
+  },
+  "author": "ClaraRibeiro",
+  "license": "ISC"
+}
